@@ -1,7 +1,7 @@
 # Site settings
-title: CrazyD's Blog
-SEOTitle: 沙忍的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: SR's Blog
+SEOTitle: 沙忍的博客  SR Blog
+header-img: 
 email: ShaRen94Real@gmail.com
 description: "Life is not chasing but running ."
 keyword: "杂谈，技术，笔记"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/CrazyroasterDuck/CrazyroasterDuck.github.io.git
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Be yourself,everyone of us is specail for the God !"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
